@@ -9,7 +9,7 @@ We use kernels to perform motion estimation and motion compensation at multiple 
 The model struction figure is as follows:
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/model_struct.png)<br />
 
-refineNet£º
+refineNet:
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/refine.png)<br />
 
 Versus results with other video interpolation method:

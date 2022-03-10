@@ -9,7 +9,7 @@ We use kernels to perform motion estimation and motion compensation at multiple 
 The model struction figure is as follows:
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/model_struct.png)<br />
 
-refineNet:
+refineNet:<br />
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/refine.png)<br />
 
 Versus results with other video interpolation method:
@@ -20,5 +20,6 @@ Video compare result with SenseTime algorithm:
 [![Watch the video](https://github.com/lzylyx/VFI_FMSMI/blob/main/video/left_sensetime_right_me.png)](https://github.com/lzylyx/VFI_FMSMI/blob/main/video/left_sensetime_right_me.mp4)
 
 
-contact:)<br />
+contact:<br />
+
 	The code provided is for academic research purposes only. If your interested in this technology, please email with Lzy_Lyx@163.com

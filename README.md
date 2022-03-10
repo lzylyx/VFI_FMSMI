@@ -10,7 +10,8 @@ The model struction figure is as follows:
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/model_struct.png)<br />
 
 refineNet:
-![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/refine.png)<br />
+![image]
+(https://github.com/lzylyx/VFI_FMSMI/blob/main/fig/refine.png)<br />
 
 Versus results with other video interpolation method:
 ![image](https://github.com/lzylyx/VFI_FMSMI/blob/main/results/compare_results.png)<br />
@@ -21,5 +22,4 @@ Video compare result with SenseTime algorithm:
 
 
 contact:
-
-The code provided is for academic research purposes only. If your interested in this technology, please email with Lzy_Lyx@163.com
+	The code provided is for academic research purposes only. If your interested in this technology, please email with Lzy_Lyx@163.com

@@ -21,5 +21,4 @@ Video compare result with SenseTime algorithm:
 
 
 contact:<br />
-
-	The code provided is for academic research purposes only. If your interested in this technology, please email with Lzy_Lyx@163.com
+The code provided is for academic research purposes only. If your interested in this technology, please email with Lzy_Lyx@163.com
